@@ -1,2 +1,2 @@
-# Quadcopter Remote Controller (PRIVATE)
+# Internet Controlled Quadcopter (PRIVATE)
 Code used for the remote control of a drone.
